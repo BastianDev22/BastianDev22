@@ -2,7 +2,7 @@
 
 I'm Bastian, a 15-year-old from Germany.
 
-- 🌱 Currently exploring machine learning with NumPy, scikit-learn and PyTorch
+- 🌱 Currently exploring machine learning with NumPy and scikit-learn
 - 💻 Working with Python, HTML & CSS
 
 <!--
