@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Bastian, a 15-year-old from Germany.
+
+- 🌱 Currently exploring machine learning with NumPy, scikit-learn and PyTorch
+- 💻 Working with Python, HTML & CSS
+
 <!--
 **BastianDev22/BastianDev22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
